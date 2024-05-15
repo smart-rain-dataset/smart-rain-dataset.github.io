@@ -22,13 +22,13 @@ repository               : "smart-rain-dataset/smart-rain-dataset.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "SMART AV"
+  pronouns         : 
+  bio              :  
+  location         :  
+  employer         :  
   uri              : # URL
-  email            : "none@example.org" 
+  email            :  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
