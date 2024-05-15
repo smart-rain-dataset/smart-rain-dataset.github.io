@@ -14,3 +14,5 @@ Our dataset is created in Singapore, where the rainfall is abundant all year rou
 SMART-Degradation Dataset
 ======
 SMART-Degradation is another dataset for studying autonomous driving in rainy weather. Unlike the SMART-Rain dataset which only contains raw sensor measurements, this new dataset consists of post-processed LiDAR scans specifically for studying LiDAR sensor degradation. This dataset was also collected by driving a full-size vehicle equipped with a 32-channel 3D LiDAR under various rainy situations in an urban environment. The post-processed LiDAR scans are called LiDAR pairs: each pair includes one LiDAR scan from clear weather and one scan from rainy weather at the same location. These LiDAR scan pairs can be used to study the degradation process of rain on laser measurements. More information can be found in the paper. 
+
+email smartraindataset@gmail.com for requesting the datasets
