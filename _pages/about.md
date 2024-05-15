@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Autonomous Driving in Rainy Weather"
-excerpt: #"About me"
 author_profile: true
 redirect_from: 
   - /about/
